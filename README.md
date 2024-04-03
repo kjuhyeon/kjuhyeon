@@ -3,6 +3,9 @@
 <!--
 **kjuhyeon/kjuhyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+## Introdution
+안녕하세요. 영남대학교 컴퓨터공학과 김주현입니다.
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
